@@ -1,0 +1,20 @@
+Voltage (V),Current (A),Power Load (MW),Temperature (°C),Wind Speed (km/h),Weather Condition,Maintenance Status,Component Health,Duration of Fault (hrs),Down time (hrs),Latitude,Longitude
+2200,250,50,25,20,Clear,Scheduled,Normal,2,1,34.0522,-118.2437
+1800,180,45,28,15,Rainy,Completed,Faulty,3,5,34.056,-118.245
+2100,230,55,35,25,Windstorm,Pending,Overheated,4,6,34.0525,-118.244
+2050,240,48,23,10,Clear,Completed,Normal,2.5,3,34.055,-118.242
+1900,190,50,30,18,Snowy,Scheduled,Faulty,3.5,4,34.0545,-118.243
+2150,220,52,32,22,Thunderstorm,Pending,Overheated,5,7,34.05,-118.24
+1994,233,51,23,21,Snowy,Completed,Normal,3.7,6.1,34.9449,-118.9839
+2133,229,52,20,18,Snowy,Scheduled,Normal,5.4,2.1,34.2294,-118.2988
+2155,240,45,21,29,Rainy,Pending,Overheated,3.2,4.7,34.1279,-118.8442
+2065,199,55,25,21,Clear,Scheduled,Normal,4,2.8,34.4192,-118.8254
+2118,221,45,20,20,Clear,Completed,Normal,4.9,1.9,34.3732,-118.1586
+2106,247,47,25,13,Clear,Completed,Normal,2.4,6.9,34.0465,-118.623
+2012,248,52,24,29,Clear,Completed,Faulty,3.9,6.4,34.9687,-118.5356
+2289,192,52,35,28,Rainy,Scheduled,Normal,4.1,5.8,34.3229,-118.46
+1848,231,49,39,13,Rainy,Scheduled,Faulty,2.7,5,34.2256,-118.9178
+2102,246,53,38,18,Rainy,Completed,Faulty,3.5,1.9,34.7105,-118.5379
+2263,229,55,21,16,Rainy,Scheduled,Normal,4.5,6,34.9346,-118.9658
+2092,241,52,31,16,Thunderstorm,Completed,Faulty,6,3.7,34.1619,-118.6775
+1943,245,50,30,15,Snowy,Completed,Faulty,5.1,3.7,34.5459,-118.8822
